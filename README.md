@@ -1,4 +1,4 @@
-# Regional Sales Analysis with Dashboard
+# Strategic Channel & Sales Trend Analysis with Dashboard
 
 This repository contains a data-driven analysis of regional sales across the United States. The project focuses on identifying patterns in user behavior by segmenting them based on **Total Revenue** and **Average Margin**, alongside income bands.
 
